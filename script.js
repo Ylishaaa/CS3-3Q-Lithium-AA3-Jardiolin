@@ -1,4 +1,4 @@
-function func(){
+function identifyCode(){
 
     let code = prompt("What's the secret code?:");
     
